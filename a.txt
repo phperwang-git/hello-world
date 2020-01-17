@@ -1,0 +1,74 @@
+
+微信小程序开发教程文档
+https://baijiahao.baidu.com/s?id=1607164071510483600&wfr=spider&for=pc
+
+微信小程序开发文档
+https://developers.weixin.qq.com/miniprogram/dev/index.html
+
+PHP版本对接支付宝支付接口
+https://blog.csdn.net/jal517486222/article/details/82726491
+
+PHP版本微信支付开发----电脑网站扫码支付(native)（心得、总结）
+https://blog.csdn.net/jal517486222/article/details/84928429n
+
+微信小程序开发基础教程:
+https://www.html.cn/study/20.html
+
+有哪些值得推荐的数据可视化工具？强烈推荐安利Excel这个工具
+https://www.zhihu.com/question/19929609
+
+美团 - 上海 - 齐美矫正【美团标榜】
+
+
+√php代码发邮箱验证
+√.bat mk_file and mk_dir
+√文字识别上线inner
+√分享系统 - 问题：业绩加错了怎么办？进入系统直接有10%（2%）的提成；隐适美是8%
+?.bat文件 - 重装系统
+√d3 - 矩形图、数状图集成到wgf网站的work里面
+√ECharts学习
+√分享系统安全，项目备份，数据库备份
+√分享系统tree
+GIT的学习 - https://github.com/
+录音 - 20集爱牙精灵
+企业支付宝
+=花生壳内网穿透
+服务器自动备份功能
+数据库性能测试，十万级数据量（数据库高级：事务处理）
+redis掌握
+bootstrap写后台
+深入学习TP
+
+
+
+1234567890abcdefghijklmnopqrstuvwxyz+-*/\_
+
+Administrator
+
+https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx55663c98dc0311cb&secret=05870e8785007f1facc56ee0af3ab796
+{"access_token":"27_5E9vk5TgRZABypQFcg8DZzCz8mUwAn6WlAIvj-wL3BMlm-ploOZQWEETdDfZblmeHOK7_laBhavfBdK2RrpGu9wZkPnCEnB4k719mcCrdryeCBqGAOVC2uMUw0A2pDgkvG4Pb2BZH90I8cH_UZZaAHAFKK","expires_in":7200}
+
+
+https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=27_TZyDGqFcXhebmrcJ3LInH_o_wSllI_1pm2gT4D4qJ_Djr4f-U94EuxqvuTCyJTxoFRLka6klDAz4x2fGX8qEEB1Yu8vL6DGQd0wDsNjWtNHk9Zr1MAz9MojQbZRwY548QOpQkS7-PVi2pEgvGOKaACAJRN&type=jsapi
+{"errcode":0,"errmsg":"ok","ticket":"sM4AOVdWfPE4DxkXGEs8VIbDOarzC5kEWEsVoayWo_lMKI8pt0kZh0YBsZMez6yEGUn7nX35JT5YCIgf5UVOXQ","expires_in":7200}
+
+
+
+
+
+
+
+
+
+，我们两个门诊要办刷脸支付的功能吗？（一个门诊需要的费用大概是两千：1499元的设备费用，小票打印机估计四五百）
+
+今天金金总喊我去见了一下办理支付宝刷脸支付业务的人，和我介绍了一下使用方法和功能，并要求提供门诊相关资料
+
+两位财务对这个都持反对意见，理由是我们的收款入口已经比较全面，并且办理这个业务的费用较高（业务人员说能返回，但是有一定的条件，而且打印机的钱还是门诊出）
+
+如果需要办理刷脸支付业务，需要尽快提供法人手持身份证照、法人手持银行卡照等信息
+
+如果不需要办理这个业务，我就要给那个业务员回复一下
+
+
+
